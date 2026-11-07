@@ -1,0 +1,11 @@
+{
+  "name": "fairsum",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PWA для честного деления счёта в ресторане между семьями",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "python -m http.server 8080"
+  }
+}
